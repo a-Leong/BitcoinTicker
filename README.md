@@ -1,2 +1,2 @@
 # BitcoinTicker
-Bitcoin value tracker
+A Bitcoin value tracker utilizing the BitcoinAverage API.
